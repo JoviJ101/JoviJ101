@@ -35,7 +35,7 @@
 
 ---
 
-## 🧠 Current Projects
+## 🧠 Recent and Current Projects
 
 | 🔥 Project | 💬 Description | 🧰 Stack |
 |-----------|----------------|---------|
