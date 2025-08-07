@@ -76,9 +76,6 @@
 </p>
 
 ---
-
-## ⚡ Bonus Vibes
-
 <p align="center">
   <img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="400" alt="Sasuke Coding"/>
 </p>
