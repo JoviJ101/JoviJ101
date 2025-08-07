@@ -1,6 +1,6 @@
-<h1 align="center">👋 Yo! I'm Jovial Jane</h1>
+<h1 align="center">👋 HEY! I'm Jovial Jane</h1>
 <p align="center">
-  💻 Aspiring SOC Analyst | Application Developer | Anime-Obsessed Technophile  
+  💻 Aspiring SOC Analyst | Software Developer | Still in my training arc — but watch me rise 🔥.  
 </p>
 
 <p align="center">
