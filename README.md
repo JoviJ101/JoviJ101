@@ -1,6 +1,6 @@
 <h1 align="center">👋 HEY! I'm Jovial Jane</h1>
 <p align="center">
-  💻 Aspiring SOC Analyst | Software Developer | Passionate Tech Freak 💻 
+  💻 Software Developer | Cybersecurity Enthusiast | Passionate Tech Freak 💻 
 </p>
 
 <p align="center">
