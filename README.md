@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=I+code+like+Shinobi+train+in+the+Rain.;Secure+apps+with+Super+Saiyan+energy.;Building+with+.NET+%2B+Cloud+%2B+Fire!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Coding+like+a+Shinobi+⚔️;Securing+systems+like+a+Super+Saiyan+🔒;Deploying+with+.NET+%2B+Cloud+☁️🔥" alt="Typing SVG" />
 </p>
+
 
 ---
 
