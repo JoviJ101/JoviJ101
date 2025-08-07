@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey, I'm Jovial Jane
 
-<!--
-**JoviJ101/JoviJ101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Application Developer & Aspiring SOC Analyst  
+🔐 Passionate about secure, scalable systems in a cloud-first world
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+---
+
+## 🛠️ Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Agents Web App](https://github.com/JoviJ101/AgentsAPI) | Full-stack car dealership app with .NET Core API + MongoDB | `.NET`, `MongoDB`, `React` |
+| [Customer Payments Portal](https://github.com/...) | Secure map-based portal with authentication, validation, and routing | `React`, `Node.js`, `JWT` |
+| [SIEM Tool (Coming Soon)]() | Simulated log parser and alert system for SOC learning | `Python`, `Regex`, `Elastic Stack` |
+
+---
+
+## 🎯 Goals
+- ✅ Build production-grade full-stack projects
+- ✅ Deploy secure systems using best practices
+- ✅ Become SOC Analyst-ready with SIEM & threat detection tools
+
+---
+
+## 📫 Contact
+- 🌐 [Portfolio Website](https://your-portfolio.com) *(Optional but STRONG boost)*
+- 💼 [LinkedIn](https://linkedin.com/in/yourname)
+- 📧 jovialjane@email.com
