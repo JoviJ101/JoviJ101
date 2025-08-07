@@ -34,6 +34,6 @@
 ---
 
 ## 📫 Contact
-- 🌐 [Portfolio Website](https://your-portfolio.com) *(Optional but STRONG boost)*
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
-- 📧 jovialjane@email.com
+- 🌐 [Portfolio Website]([https://your-portfolio.com](https://jovialjaneportfolio.netlify.app/)) 
+- 💼 [LinkedIn](www.linkedin.com/in/jovial-jane-4b1052251)
+- 📧 jovialunni@email.com
