@@ -4,7 +4,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=600&lines=Coding+like+a+Shinobi+⚔️;Securing+systems+like+a+Super+Saiyan+🔒;Deploying+with+.NET+%2B+Cloud+☁️🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7931E&center=true&width=600&lines=Coding+like+a+Shinobi+⚔️" alt="Typing SVG 1" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7931E&center=true&width=600&lines=Securing+systems+like+a+Super+Saiyan+🔒" alt="Typing SVG 2" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7931E&center=true&width=600&lines=Deploying+with+.NET+%2B+Cloud+☁️🔥" alt="Typing SVG 3" />
 </p>
 
 
