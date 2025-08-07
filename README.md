@@ -34,6 +34,6 @@
 ---
 
 ## 📫 Contact
-- 🌐 [Portfolio Website]([https://your-portfolio.com](https://jovialjaneportfolio.netlify.app/)) 
-- 💼 [LinkedIn](www.linkedin.com/in/jovial-jane-4b1052251)
-- 📧 jovialunni@email.com
+- 🌐 [Portfolio Website](https://jovialjaneportfolio.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jovial-jane-4b1052251)
+- 📧 jovialunni@gmail.com
